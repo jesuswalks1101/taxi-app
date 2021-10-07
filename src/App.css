@@ -1,0 +1,62 @@
+/* 
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+*/
+
+/* .container {
+    display: flex;
+    justify-content: space-between;
+} */
+.container {
+    padding-top: 15px;
+}
+
+.container ul {
+    list-style: none;
+    text-align: end;
+}
+
+.logo {
+    font-weight: 900;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F7CA01;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+} 
+
+.navbar ul {
+    display: flex;
+    justify-content: space-between;
+} 
+
+.navbar a {
+    color: #000;
+} 
+
+ .navbar a:hover {
+    color: #fff;
+    background: none;
+}
+
+.navbar a:focus {
+    color: #fff;
+    background: none;
+}
+
+.sections {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+}
+
+.sections a {
+    color: #000;
+    text-decoration: none;
+    text-align: end;
+}

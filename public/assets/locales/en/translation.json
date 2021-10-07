@@ -1,6 +1,6 @@
 {
-  "app_title": "Title",
-  "language": "Language",
-  "welcome_message": "Welcome",
+  "app_title": "Название",
+  "language": "Название",
+  "welcome_message": "Название",
   "days_since_release": "it's been {{number_of_days}} days since this video was released"
 }
